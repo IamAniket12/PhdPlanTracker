@@ -11,3 +11,6 @@
 - Join PGR Training Week.
 
 ## Supervisor Suggestions/comments
+
+- All is fine but a bit overambitious. Make sure the priority order is right. The PGR training week should be your top priority for example. 
+- You might want to check your naming convention. Putting & in filenames may cause you problems later on.
