@@ -19,7 +19,7 @@
 
 
 ## Notes
- - Monday to Thursday joined all pgr training sessions.
+ - Monday to Thursday joined all pgr training sessions (except one morning session😢).
  - Friday and Monday spend whole day on Pi Crawler assembly it took more time than expected.
  - The assembly of the Pi Crawler is nearly complete. Next, I will focus on developing and experimenting with algorithms.
  - The RC car setup is almost complete. Once we check the steering servo issue, we can start integrating it with the Donkey Car simulator.
