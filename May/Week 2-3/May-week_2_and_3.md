@@ -21,6 +21,8 @@
 ## Notes
  - Monday to Thursday joined all pgr training sessions.
  - Friday and Monday spend whole day on Pi Crawler assembly it took more time than expected.
+ - The assembly of the Pi Crawler is nearly complete. Next, I will focus on developing and experimenting with algorithms.
+ - The RC car setup is almost complete. Once we check the steering servo issue, we can start integrating it with the Donkey Car simulator.
  - Solved 10 Leetcode problems to improve problem solving. [1](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) [2](https://leetcode.com/problems/climbing-stairs/description/) [3](https://leetcode.com/problems/min-cost-climbing-stairs/description/) [4](https://leetcode.com/problems/permutations/description/) [5](https://leetcode.com/problems/subsets/description/) [6](https://leetcode.com/problems/subsets-ii/description/) [7](https://leetcode.com/problems/combination-sum-ii/description/) [8](https://leetcode.com/problems/word-search/description/) [9](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/) [10](https://leetcode.com/problems/palindrome-partitioning/description/)
 
 ## Supervisor Feedback
