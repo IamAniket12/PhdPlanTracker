@@ -17,6 +17,8 @@
 
 ## Notes
 - Literature review access [link](https://www.overleaf.com/project/65be996ac67fb55975bf6b98) 
+- The dollhouse business case is in progress, but finding the right material is taking longer than expected. If you have any suggestions for heating and cooling devices, please let me know.
+- Order a new servo for the RC car, which is expected to arrive by the end of today (29 May).
 - Data Structure and algorithm solved problems. [1](https://leetcode.com/problems/get-equal-substrings-within-budget/description/) [2](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/) [3](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/) [4](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/description/) [5](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/description/) [6](https://leetcode.com/problems/student-attendance-record-ii/description/)
 
 
